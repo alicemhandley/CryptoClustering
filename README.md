@@ -77,5 +77,5 @@ Resources:
 
 git.bootcampcontent.com/University-of-Adelaide    
 ChatGTP  
-github.com/Asalvs 
+github.com/Asalvs   
 AskBCS Learning Assistant
